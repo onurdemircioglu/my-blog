@@ -1,2 +1,2 @@
 # Medium-Blog
-Contains the codes and works which blogged on Medium
+Contains the codes and works which I have blogged on Medium
