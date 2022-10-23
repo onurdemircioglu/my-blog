@@ -1,0 +1,1 @@
+="servername"&RIGHT(C1,LEN(C1)-SEARCH("\",C1,1)+1)
