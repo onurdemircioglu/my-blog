@@ -1,10 +1,9 @@
-
 'Last Thursday before end of next month (end of month is included/excluded)
 Sub FindingLastThursday()
     Dim v_date As Date, begin_month As Date, end_month As Date, result_date As Date, result_date2 As Date
      
     v_date = DateSerial(2021, 8, 22) 'TEST DATE
-'    v_date = [A1] 'Cell reference of range can be given
+'    v_date = [A1] 'Cell reference or range can be given
     begin_month = Application.WorksheetFunction.EoMonth(v_date, 1) - Day(Application.WorksheetFunction.EoMonth(v_date, 1)) + 1 'This calculates the 01.09.2021
     end_month = Application.WorksheetFunction.EoMonth(v_date, 1) 'This calculates the 30.09.2021
  
