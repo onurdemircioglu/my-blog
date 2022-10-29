@@ -24,7 +24,7 @@ Sub FindingLastThursday()
     MsgBox "result_date >> " & CDate(result_date)
     MsgBox "result_date2 >> " & CDate(result_date2)
      
-    'WRITING RESULT BACK TO WORKSHEET
+    'Writing the results back to the worksheet
 '    [A2] = result_date
 '    [A3] = result_date2
      
