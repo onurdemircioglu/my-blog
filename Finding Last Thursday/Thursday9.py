@@ -20,7 +20,7 @@ end_month = end_month + relativedelta(days=- (int(dt.datetime.strftime(end_month
 # Now we can loop between 2022-09-01 and 2022-09-30.
 while begin_month <= end_month:
     # Finding the weekday name (based on local settings)
-    day_name = dt.datetime.strftime(begin_month, "%A")
+    #day_name = dt.datetime.strftime(begin_month, "%A") # We are not using weekday name because it is based on local settings. While you are expecting Monday, you can get Montag (German)
     
     # Finding the weekday number (Sunday is 0)
     weekday_number = dt.datetime.strftime(begin_month, "%w")
@@ -36,4 +36,4 @@ print("sample_date >>", sample_date)
 print("result_date >>", result_date)
 
 # Formatting the result
-print("result_date formatted>>", dt.datetime.strftime(result_date, "%Y-%m-%d"))
+print("result_date formatted >>", dt.datetime.strftime(result_date, "%Y-%m-%d"))
