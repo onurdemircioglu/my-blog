@@ -8,13 +8,14 @@ Sub SortingCellContent_v1()
     
     Sheets("RESULT").Select
     'Test cell
-    [A1].Select
+    [A4].Select
     'Result Cell
-    [B1] = ""
+    [B4] = ""
     
+    CellContent = ActiveCell.Value
     SearchValue = Chr(10)
     
-    CellContent = [A1].Value
+    
     ReplacedCellContent = Replace(CellContent, SearchValue, "", 1) 'To find how many occurences does cell content has
     RepeatCount = Len(CellContent) - Len(ReplacedCellContent)
     
@@ -67,5 +68,5 @@ Sub SortingCellContent_v1()
     MsgBox Join(MyArray(), vbCrLf)
     
     'Writing back to cell
-    [B1] = Join(MyArray(), vbCrLf) 'It could be overwritten into the original cell (A1)
+    [B4] = Join(MyArray(), vbCrLf) 'It could be overwritten into the original cell (A1)
 End Sub
