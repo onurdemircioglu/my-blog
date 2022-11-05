@@ -1,3 +1,5 @@
+Option Base 1
+
 Function f_SortingCellContent(MyCell As Range) As String
     Dim SearchValue As String
     Dim MyArray() As String
