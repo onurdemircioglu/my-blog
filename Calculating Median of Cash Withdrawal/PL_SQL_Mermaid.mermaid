@@ -1,0 +1,22 @@
+graph TD;
+	Start[Start] --> s1;
+  s1["Declaring variables"] --> s2["Create a cursor for distinct customer"];
+  s2 --> s3["Loop for every customer"];
+  s3 --> s4["Get all transaction data of every customer (Start of Loop1)"];
+	s4 --> s5["Check if transanction count is equal or greater than predefined threshold"];
+	s5 --> |Yes| s6Yes(["Get specific rows (last x transactions) <br> of customer's transactions (Start of Loop2) "]);
+	s6Yes --> s7(["Calculate median of selected transactions"]);
+	s7 --> s8(["Assign the result to a variable"]);
+	s8 --> s9_update1(["Update MY_MEDIAN_CALCULATION <br> column with calculated median value"]);
+	s8 --> s9_update2(["Update MY_RESULT <br> column with according to predefined criteria"]);
+
+	s5 --> |No| s6No("Calculate only MY_RESULT column");
+
+	s6No --> s10["Commit"];
+	s9_update1 --> s10["Commit and select next row (Loop 2)"];
+	s9_update2 --> s10["Commit and select next row (Loop 2)"];
+
+	s10 --> s6Yes;
+	s10 --> s11["Select next customer in the loop (Loop1)"];
+	s11 --> s12["Close cursor"];
+	s12 --> s13["End"];
