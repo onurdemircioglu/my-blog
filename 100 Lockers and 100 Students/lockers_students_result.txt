@@ -1,0 +1,1271 @@
+locker: 1, student: 1, locker status (before open-close action): closed
+locker: 1, student: 1, locker status (after close-open action): open
+locker: 2, student: 1, locker status (before open-close action): closed
+locker: 2, student: 1, locker status (after close-open action): open
+locker: 3, student: 1, locker status (before open-close action): closed
+locker: 3, student: 1, locker status (after close-open action): open
+locker: 4, student: 1, locker status (before open-close action): closed
+locker: 4, student: 1, locker status (after close-open action): open
+locker: 5, student: 1, locker status (before open-close action): closed
+locker: 5, student: 1, locker status (after close-open action): open
+locker: 6, student: 1, locker status (before open-close action): closed
+locker: 6, student: 1, locker status (after close-open action): open
+locker: 7, student: 1, locker status (before open-close action): closed
+locker: 7, student: 1, locker status (after close-open action): open
+locker: 8, student: 1, locker status (before open-close action): closed
+locker: 8, student: 1, locker status (after close-open action): open
+locker: 9, student: 1, locker status (before open-close action): closed
+locker: 9, student: 1, locker status (after close-open action): open
+locker: 10, student: 1, locker status (before open-close action): closed
+locker: 10, student: 1, locker status (after close-open action): open
+locker: 11, student: 1, locker status (before open-close action): closed
+locker: 11, student: 1, locker status (after close-open action): open
+locker: 12, student: 1, locker status (before open-close action): closed
+locker: 12, student: 1, locker status (after close-open action): open
+locker: 13, student: 1, locker status (before open-close action): closed
+locker: 13, student: 1, locker status (after close-open action): open
+locker: 14, student: 1, locker status (before open-close action): closed
+locker: 14, student: 1, locker status (after close-open action): open
+locker: 15, student: 1, locker status (before open-close action): closed
+locker: 15, student: 1, locker status (after close-open action): open
+locker: 16, student: 1, locker status (before open-close action): closed
+locker: 16, student: 1, locker status (after close-open action): open
+locker: 17, student: 1, locker status (before open-close action): closed
+locker: 17, student: 1, locker status (after close-open action): open
+locker: 18, student: 1, locker status (before open-close action): closed
+locker: 18, student: 1, locker status (after close-open action): open
+locker: 19, student: 1, locker status (before open-close action): closed
+locker: 19, student: 1, locker status (after close-open action): open
+locker: 20, student: 1, locker status (before open-close action): closed
+locker: 20, student: 1, locker status (after close-open action): open
+locker: 21, student: 1, locker status (before open-close action): closed
+locker: 21, student: 1, locker status (after close-open action): open
+locker: 22, student: 1, locker status (before open-close action): closed
+locker: 22, student: 1, locker status (after close-open action): open
+locker: 23, student: 1, locker status (before open-close action): closed
+locker: 23, student: 1, locker status (after close-open action): open
+locker: 24, student: 1, locker status (before open-close action): closed
+locker: 24, student: 1, locker status (after close-open action): open
+locker: 25, student: 1, locker status (before open-close action): closed
+locker: 25, student: 1, locker status (after close-open action): open
+locker: 26, student: 1, locker status (before open-close action): closed
+locker: 26, student: 1, locker status (after close-open action): open
+locker: 27, student: 1, locker status (before open-close action): closed
+locker: 27, student: 1, locker status (after close-open action): open
+locker: 28, student: 1, locker status (before open-close action): closed
+locker: 28, student: 1, locker status (after close-open action): open
+locker: 29, student: 1, locker status (before open-close action): closed
+locker: 29, student: 1, locker status (after close-open action): open
+locker: 30, student: 1, locker status (before open-close action): closed
+locker: 30, student: 1, locker status (after close-open action): open
+locker: 31, student: 1, locker status (before open-close action): closed
+locker: 31, student: 1, locker status (after close-open action): open
+locker: 32, student: 1, locker status (before open-close action): closed
+locker: 32, student: 1, locker status (after close-open action): open
+locker: 33, student: 1, locker status (before open-close action): closed
+locker: 33, student: 1, locker status (after close-open action): open
+locker: 34, student: 1, locker status (before open-close action): closed
+locker: 34, student: 1, locker status (after close-open action): open
+locker: 35, student: 1, locker status (before open-close action): closed
+locker: 35, student: 1, locker status (after close-open action): open
+locker: 36, student: 1, locker status (before open-close action): closed
+locker: 36, student: 1, locker status (after close-open action): open
+locker: 37, student: 1, locker status (before open-close action): closed
+locker: 37, student: 1, locker status (after close-open action): open
+locker: 38, student: 1, locker status (before open-close action): closed
+locker: 38, student: 1, locker status (after close-open action): open
+locker: 39, student: 1, locker status (before open-close action): closed
+locker: 39, student: 1, locker status (after close-open action): open
+locker: 40, student: 1, locker status (before open-close action): closed
+locker: 40, student: 1, locker status (after close-open action): open
+locker: 41, student: 1, locker status (before open-close action): closed
+locker: 41, student: 1, locker status (after close-open action): open
+locker: 42, student: 1, locker status (before open-close action): closed
+locker: 42, student: 1, locker status (after close-open action): open
+locker: 43, student: 1, locker status (before open-close action): closed
+locker: 43, student: 1, locker status (after close-open action): open
+locker: 44, student: 1, locker status (before open-close action): closed
+locker: 44, student: 1, locker status (after close-open action): open
+locker: 45, student: 1, locker status (before open-close action): closed
+locker: 45, student: 1, locker status (after close-open action): open
+locker: 46, student: 1, locker status (before open-close action): closed
+locker: 46, student: 1, locker status (after close-open action): open
+locker: 47, student: 1, locker status (before open-close action): closed
+locker: 47, student: 1, locker status (after close-open action): open
+locker: 48, student: 1, locker status (before open-close action): closed
+locker: 48, student: 1, locker status (after close-open action): open
+locker: 49, student: 1, locker status (before open-close action): closed
+locker: 49, student: 1, locker status (after close-open action): open
+locker: 50, student: 1, locker status (before open-close action): closed
+locker: 50, student: 1, locker status (after close-open action): open
+locker: 51, student: 1, locker status (before open-close action): closed
+locker: 51, student: 1, locker status (after close-open action): open
+locker: 52, student: 1, locker status (before open-close action): closed
+locker: 52, student: 1, locker status (after close-open action): open
+locker: 53, student: 1, locker status (before open-close action): closed
+locker: 53, student: 1, locker status (after close-open action): open
+locker: 54, student: 1, locker status (before open-close action): closed
+locker: 54, student: 1, locker status (after close-open action): open
+locker: 55, student: 1, locker status (before open-close action): closed
+locker: 55, student: 1, locker status (after close-open action): open
+locker: 56, student: 1, locker status (before open-close action): closed
+locker: 56, student: 1, locker status (after close-open action): open
+locker: 57, student: 1, locker status (before open-close action): closed
+locker: 57, student: 1, locker status (after close-open action): open
+locker: 58, student: 1, locker status (before open-close action): closed
+locker: 58, student: 1, locker status (after close-open action): open
+locker: 59, student: 1, locker status (before open-close action): closed
+locker: 59, student: 1, locker status (after close-open action): open
+locker: 60, student: 1, locker status (before open-close action): closed
+locker: 60, student: 1, locker status (after close-open action): open
+locker: 61, student: 1, locker status (before open-close action): closed
+locker: 61, student: 1, locker status (after close-open action): open
+locker: 62, student: 1, locker status (before open-close action): closed
+locker: 62, student: 1, locker status (after close-open action): open
+locker: 63, student: 1, locker status (before open-close action): closed
+locker: 63, student: 1, locker status (after close-open action): open
+locker: 64, student: 1, locker status (before open-close action): closed
+locker: 64, student: 1, locker status (after close-open action): open
+locker: 65, student: 1, locker status (before open-close action): closed
+locker: 65, student: 1, locker status (after close-open action): open
+locker: 66, student: 1, locker status (before open-close action): closed
+locker: 66, student: 1, locker status (after close-open action): open
+locker: 67, student: 1, locker status (before open-close action): closed
+locker: 67, student: 1, locker status (after close-open action): open
+locker: 68, student: 1, locker status (before open-close action): closed
+locker: 68, student: 1, locker status (after close-open action): open
+locker: 69, student: 1, locker status (before open-close action): closed
+locker: 69, student: 1, locker status (after close-open action): open
+locker: 70, student: 1, locker status (before open-close action): closed
+locker: 70, student: 1, locker status (after close-open action): open
+locker: 71, student: 1, locker status (before open-close action): closed
+locker: 71, student: 1, locker status (after close-open action): open
+locker: 72, student: 1, locker status (before open-close action): closed
+locker: 72, student: 1, locker status (after close-open action): open
+locker: 73, student: 1, locker status (before open-close action): closed
+locker: 73, student: 1, locker status (after close-open action): open
+locker: 74, student: 1, locker status (before open-close action): closed
+locker: 74, student: 1, locker status (after close-open action): open
+locker: 75, student: 1, locker status (before open-close action): closed
+locker: 75, student: 1, locker status (after close-open action): open
+locker: 76, student: 1, locker status (before open-close action): closed
+locker: 76, student: 1, locker status (after close-open action): open
+locker: 77, student: 1, locker status (before open-close action): closed
+locker: 77, student: 1, locker status (after close-open action): open
+locker: 78, student: 1, locker status (before open-close action): closed
+locker: 78, student: 1, locker status (after close-open action): open
+locker: 79, student: 1, locker status (before open-close action): closed
+locker: 79, student: 1, locker status (after close-open action): open
+locker: 80, student: 1, locker status (before open-close action): closed
+locker: 80, student: 1, locker status (after close-open action): open
+locker: 81, student: 1, locker status (before open-close action): closed
+locker: 81, student: 1, locker status (after close-open action): open
+locker: 82, student: 1, locker status (before open-close action): closed
+locker: 82, student: 1, locker status (after close-open action): open
+locker: 83, student: 1, locker status (before open-close action): closed
+locker: 83, student: 1, locker status (after close-open action): open
+locker: 84, student: 1, locker status (before open-close action): closed
+locker: 84, student: 1, locker status (after close-open action): open
+locker: 85, student: 1, locker status (before open-close action): closed
+locker: 85, student: 1, locker status (after close-open action): open
+locker: 86, student: 1, locker status (before open-close action): closed
+locker: 86, student: 1, locker status (after close-open action): open
+locker: 87, student: 1, locker status (before open-close action): closed
+locker: 87, student: 1, locker status (after close-open action): open
+locker: 88, student: 1, locker status (before open-close action): closed
+locker: 88, student: 1, locker status (after close-open action): open
+locker: 89, student: 1, locker status (before open-close action): closed
+locker: 89, student: 1, locker status (after close-open action): open
+locker: 90, student: 1, locker status (before open-close action): closed
+locker: 90, student: 1, locker status (after close-open action): open
+locker: 91, student: 1, locker status (before open-close action): closed
+locker: 91, student: 1, locker status (after close-open action): open
+locker: 92, student: 1, locker status (before open-close action): closed
+locker: 92, student: 1, locker status (after close-open action): open
+locker: 93, student: 1, locker status (before open-close action): closed
+locker: 93, student: 1, locker status (after close-open action): open
+locker: 94, student: 1, locker status (before open-close action): closed
+locker: 94, student: 1, locker status (after close-open action): open
+locker: 95, student: 1, locker status (before open-close action): closed
+locker: 95, student: 1, locker status (after close-open action): open
+locker: 96, student: 1, locker status (before open-close action): closed
+locker: 96, student: 1, locker status (after close-open action): open
+locker: 97, student: 1, locker status (before open-close action): closed
+locker: 97, student: 1, locker status (after close-open action): open
+locker: 98, student: 1, locker status (before open-close action): closed
+locker: 98, student: 1, locker status (after close-open action): open
+locker: 99, student: 1, locker status (before open-close action): closed
+locker: 99, student: 1, locker status (after close-open action): open
+locker: 100, student: 1, locker status (before open-close action): closed
+locker: 100, student: 1, locker status (after close-open action): open
+
+
+locker: 2, student: 2, locker status (before open-close action): open
+locker: 2, student: 2, locker status (after open-close action): closed
+locker: 4, student: 2, locker status (before open-close action): open
+locker: 4, student: 2, locker status (after open-close action): closed
+locker: 6, student: 2, locker status (before open-close action): open
+locker: 6, student: 2, locker status (after open-close action): closed
+locker: 8, student: 2, locker status (before open-close action): open
+locker: 8, student: 2, locker status (after open-close action): closed
+locker: 10, student: 2, locker status (before open-close action): open
+locker: 10, student: 2, locker status (after open-close action): closed
+locker: 12, student: 2, locker status (before open-close action): open
+locker: 12, student: 2, locker status (after open-close action): closed
+locker: 14, student: 2, locker status (before open-close action): open
+locker: 14, student: 2, locker status (after open-close action): closed
+locker: 16, student: 2, locker status (before open-close action): open
+locker: 16, student: 2, locker status (after open-close action): closed
+locker: 18, student: 2, locker status (before open-close action): open
+locker: 18, student: 2, locker status (after open-close action): closed
+locker: 20, student: 2, locker status (before open-close action): open
+locker: 20, student: 2, locker status (after open-close action): closed
+locker: 22, student: 2, locker status (before open-close action): open
+locker: 22, student: 2, locker status (after open-close action): closed
+locker: 24, student: 2, locker status (before open-close action): open
+locker: 24, student: 2, locker status (after open-close action): closed
+locker: 26, student: 2, locker status (before open-close action): open
+locker: 26, student: 2, locker status (after open-close action): closed
+locker: 28, student: 2, locker status (before open-close action): open
+locker: 28, student: 2, locker status (after open-close action): closed
+locker: 30, student: 2, locker status (before open-close action): open
+locker: 30, student: 2, locker status (after open-close action): closed
+locker: 32, student: 2, locker status (before open-close action): open
+locker: 32, student: 2, locker status (after open-close action): closed
+locker: 34, student: 2, locker status (before open-close action): open
+locker: 34, student: 2, locker status (after open-close action): closed
+locker: 36, student: 2, locker status (before open-close action): open
+locker: 36, student: 2, locker status (after open-close action): closed
+locker: 38, student: 2, locker status (before open-close action): open
+locker: 38, student: 2, locker status (after open-close action): closed
+locker: 40, student: 2, locker status (before open-close action): open
+locker: 40, student: 2, locker status (after open-close action): closed
+locker: 42, student: 2, locker status (before open-close action): open
+locker: 42, student: 2, locker status (after open-close action): closed
+locker: 44, student: 2, locker status (before open-close action): open
+locker: 44, student: 2, locker status (after open-close action): closed
+locker: 46, student: 2, locker status (before open-close action): open
+locker: 46, student: 2, locker status (after open-close action): closed
+locker: 48, student: 2, locker status (before open-close action): open
+locker: 48, student: 2, locker status (after open-close action): closed
+locker: 50, student: 2, locker status (before open-close action): open
+locker: 50, student: 2, locker status (after open-close action): closed
+locker: 52, student: 2, locker status (before open-close action): open
+locker: 52, student: 2, locker status (after open-close action): closed
+locker: 54, student: 2, locker status (before open-close action): open
+locker: 54, student: 2, locker status (after open-close action): closed
+locker: 56, student: 2, locker status (before open-close action): open
+locker: 56, student: 2, locker status (after open-close action): closed
+locker: 58, student: 2, locker status (before open-close action): open
+locker: 58, student: 2, locker status (after open-close action): closed
+locker: 60, student: 2, locker status (before open-close action): open
+locker: 60, student: 2, locker status (after open-close action): closed
+locker: 62, student: 2, locker status (before open-close action): open
+locker: 62, student: 2, locker status (after open-close action): closed
+locker: 64, student: 2, locker status (before open-close action): open
+locker: 64, student: 2, locker status (after open-close action): closed
+locker: 66, student: 2, locker status (before open-close action): open
+locker: 66, student: 2, locker status (after open-close action): closed
+locker: 68, student: 2, locker status (before open-close action): open
+locker: 68, student: 2, locker status (after open-close action): closed
+locker: 70, student: 2, locker status (before open-close action): open
+locker: 70, student: 2, locker status (after open-close action): closed
+locker: 72, student: 2, locker status (before open-close action): open
+locker: 72, student: 2, locker status (after open-close action): closed
+locker: 74, student: 2, locker status (before open-close action): open
+locker: 74, student: 2, locker status (after open-close action): closed
+locker: 76, student: 2, locker status (before open-close action): open
+locker: 76, student: 2, locker status (after open-close action): closed
+locker: 78, student: 2, locker status (before open-close action): open
+locker: 78, student: 2, locker status (after open-close action): closed
+locker: 80, student: 2, locker status (before open-close action): open
+locker: 80, student: 2, locker status (after open-close action): closed
+locker: 82, student: 2, locker status (before open-close action): open
+locker: 82, student: 2, locker status (after open-close action): closed
+locker: 84, student: 2, locker status (before open-close action): open
+locker: 84, student: 2, locker status (after open-close action): closed
+locker: 86, student: 2, locker status (before open-close action): open
+locker: 86, student: 2, locker status (after open-close action): closed
+locker: 88, student: 2, locker status (before open-close action): open
+locker: 88, student: 2, locker status (after open-close action): closed
+locker: 90, student: 2, locker status (before open-close action): open
+locker: 90, student: 2, locker status (after open-close action): closed
+locker: 92, student: 2, locker status (before open-close action): open
+locker: 92, student: 2, locker status (after open-close action): closed
+locker: 94, student: 2, locker status (before open-close action): open
+locker: 94, student: 2, locker status (after open-close action): closed
+locker: 96, student: 2, locker status (before open-close action): open
+locker: 96, student: 2, locker status (after open-close action): closed
+locker: 98, student: 2, locker status (before open-close action): open
+locker: 98, student: 2, locker status (after open-close action): closed
+locker: 100, student: 2, locker status (before open-close action): open
+locker: 100, student: 2, locker status (after open-close action): closed
+
+
+locker: 3, student: 3, locker status (before open-close action): open
+locker: 3, student: 3, locker status (after open-close action): closed
+locker: 6, student: 3, locker status (before open-close action): closed
+locker: 6, student: 3, locker status (after close-open action): open
+locker: 9, student: 3, locker status (before open-close action): open
+locker: 9, student: 3, locker status (after open-close action): closed
+locker: 12, student: 3, locker status (before open-close action): closed
+locker: 12, student: 3, locker status (after close-open action): open
+locker: 15, student: 3, locker status (before open-close action): open
+locker: 15, student: 3, locker status (after open-close action): closed
+locker: 18, student: 3, locker status (before open-close action): closed
+locker: 18, student: 3, locker status (after close-open action): open
+locker: 21, student: 3, locker status (before open-close action): open
+locker: 21, student: 3, locker status (after open-close action): closed
+locker: 24, student: 3, locker status (before open-close action): closed
+locker: 24, student: 3, locker status (after close-open action): open
+locker: 27, student: 3, locker status (before open-close action): open
+locker: 27, student: 3, locker status (after open-close action): closed
+locker: 30, student: 3, locker status (before open-close action): closed
+locker: 30, student: 3, locker status (after close-open action): open
+locker: 33, student: 3, locker status (before open-close action): open
+locker: 33, student: 3, locker status (after open-close action): closed
+locker: 36, student: 3, locker status (before open-close action): closed
+locker: 36, student: 3, locker status (after close-open action): open
+locker: 39, student: 3, locker status (before open-close action): open
+locker: 39, student: 3, locker status (after open-close action): closed
+locker: 42, student: 3, locker status (before open-close action): closed
+locker: 42, student: 3, locker status (after close-open action): open
+locker: 45, student: 3, locker status (before open-close action): open
+locker: 45, student: 3, locker status (after open-close action): closed
+locker: 48, student: 3, locker status (before open-close action): closed
+locker: 48, student: 3, locker status (after close-open action): open
+locker: 51, student: 3, locker status (before open-close action): open
+locker: 51, student: 3, locker status (after open-close action): closed
+locker: 54, student: 3, locker status (before open-close action): closed
+locker: 54, student: 3, locker status (after close-open action): open
+locker: 57, student: 3, locker status (before open-close action): open
+locker: 57, student: 3, locker status (after open-close action): closed
+locker: 60, student: 3, locker status (before open-close action): closed
+locker: 60, student: 3, locker status (after close-open action): open
+locker: 63, student: 3, locker status (before open-close action): open
+locker: 63, student: 3, locker status (after open-close action): closed
+locker: 66, student: 3, locker status (before open-close action): closed
+locker: 66, student: 3, locker status (after close-open action): open
+locker: 69, student: 3, locker status (before open-close action): open
+locker: 69, student: 3, locker status (after open-close action): closed
+locker: 72, student: 3, locker status (before open-close action): closed
+locker: 72, student: 3, locker status (after close-open action): open
+locker: 75, student: 3, locker status (before open-close action): open
+locker: 75, student: 3, locker status (after open-close action): closed
+locker: 78, student: 3, locker status (before open-close action): closed
+locker: 78, student: 3, locker status (after close-open action): open
+locker: 81, student: 3, locker status (before open-close action): open
+locker: 81, student: 3, locker status (after open-close action): closed
+locker: 84, student: 3, locker status (before open-close action): closed
+locker: 84, student: 3, locker status (after close-open action): open
+locker: 87, student: 3, locker status (before open-close action): open
+locker: 87, student: 3, locker status (after open-close action): closed
+locker: 90, student: 3, locker status (before open-close action): closed
+locker: 90, student: 3, locker status (after close-open action): open
+locker: 93, student: 3, locker status (before open-close action): open
+locker: 93, student: 3, locker status (after open-close action): closed
+locker: 96, student: 3, locker status (before open-close action): closed
+locker: 96, student: 3, locker status (after close-open action): open
+locker: 99, student: 3, locker status (before open-close action): open
+locker: 99, student: 3, locker status (after open-close action): closed
+
+
+locker: 4, student: 4, locker status (before open-close action): closed
+locker: 4, student: 4, locker status (after close-open action): open
+locker: 8, student: 4, locker status (before open-close action): closed
+locker: 8, student: 4, locker status (after close-open action): open
+locker: 12, student: 4, locker status (before open-close action): open
+locker: 12, student: 4, locker status (after open-close action): closed
+locker: 16, student: 4, locker status (before open-close action): closed
+locker: 16, student: 4, locker status (after close-open action): open
+locker: 20, student: 4, locker status (before open-close action): closed
+locker: 20, student: 4, locker status (after close-open action): open
+locker: 24, student: 4, locker status (before open-close action): open
+locker: 24, student: 4, locker status (after open-close action): closed
+locker: 28, student: 4, locker status (before open-close action): closed
+locker: 28, student: 4, locker status (after close-open action): open
+locker: 32, student: 4, locker status (before open-close action): closed
+locker: 32, student: 4, locker status (after close-open action): open
+locker: 36, student: 4, locker status (before open-close action): open
+locker: 36, student: 4, locker status (after open-close action): closed
+locker: 40, student: 4, locker status (before open-close action): closed
+locker: 40, student: 4, locker status (after close-open action): open
+locker: 44, student: 4, locker status (before open-close action): closed
+locker: 44, student: 4, locker status (after close-open action): open
+locker: 48, student: 4, locker status (before open-close action): open
+locker: 48, student: 4, locker status (after open-close action): closed
+locker: 52, student: 4, locker status (before open-close action): closed
+locker: 52, student: 4, locker status (after close-open action): open
+locker: 56, student: 4, locker status (before open-close action): closed
+locker: 56, student: 4, locker status (after close-open action): open
+locker: 60, student: 4, locker status (before open-close action): open
+locker: 60, student: 4, locker status (after open-close action): closed
+locker: 64, student: 4, locker status (before open-close action): closed
+locker: 64, student: 4, locker status (after close-open action): open
+locker: 68, student: 4, locker status (before open-close action): closed
+locker: 68, student: 4, locker status (after close-open action): open
+locker: 72, student: 4, locker status (before open-close action): open
+locker: 72, student: 4, locker status (after open-close action): closed
+locker: 76, student: 4, locker status (before open-close action): closed
+locker: 76, student: 4, locker status (after close-open action): open
+locker: 80, student: 4, locker status (before open-close action): closed
+locker: 80, student: 4, locker status (after close-open action): open
+locker: 84, student: 4, locker status (before open-close action): open
+locker: 84, student: 4, locker status (after open-close action): closed
+locker: 88, student: 4, locker status (before open-close action): closed
+locker: 88, student: 4, locker status (after close-open action): open
+locker: 92, student: 4, locker status (before open-close action): closed
+locker: 92, student: 4, locker status (after close-open action): open
+locker: 96, student: 4, locker status (before open-close action): open
+locker: 96, student: 4, locker status (after open-close action): closed
+locker: 100, student: 4, locker status (before open-close action): closed
+locker: 100, student: 4, locker status (after close-open action): open
+
+
+locker: 5, student: 5, locker status (before open-close action): open
+locker: 5, student: 5, locker status (after open-close action): closed
+locker: 10, student: 5, locker status (before open-close action): closed
+locker: 10, student: 5, locker status (after close-open action): open
+locker: 15, student: 5, locker status (before open-close action): closed
+locker: 15, student: 5, locker status (after close-open action): open
+locker: 20, student: 5, locker status (before open-close action): open
+locker: 20, student: 5, locker status (after open-close action): closed
+locker: 25, student: 5, locker status (before open-close action): open
+locker: 25, student: 5, locker status (after open-close action): closed
+locker: 30, student: 5, locker status (before open-close action): open
+locker: 30, student: 5, locker status (after open-close action): closed
+locker: 35, student: 5, locker status (before open-close action): open
+locker: 35, student: 5, locker status (after open-close action): closed
+locker: 40, student: 5, locker status (before open-close action): open
+locker: 40, student: 5, locker status (after open-close action): closed
+locker: 45, student: 5, locker status (before open-close action): closed
+locker: 45, student: 5, locker status (after close-open action): open
+locker: 50, student: 5, locker status (before open-close action): closed
+locker: 50, student: 5, locker status (after close-open action): open
+locker: 55, student: 5, locker status (before open-close action): open
+locker: 55, student: 5, locker status (after open-close action): closed
+locker: 60, student: 5, locker status (before open-close action): closed
+locker: 60, student: 5, locker status (after close-open action): open
+locker: 65, student: 5, locker status (before open-close action): open
+locker: 65, student: 5, locker status (after open-close action): closed
+locker: 70, student: 5, locker status (before open-close action): closed
+locker: 70, student: 5, locker status (after close-open action): open
+locker: 75, student: 5, locker status (before open-close action): closed
+locker: 75, student: 5, locker status (after close-open action): open
+locker: 80, student: 5, locker status (before open-close action): open
+locker: 80, student: 5, locker status (after open-close action): closed
+locker: 85, student: 5, locker status (before open-close action): open
+locker: 85, student: 5, locker status (after open-close action): closed
+locker: 90, student: 5, locker status (before open-close action): open
+locker: 90, student: 5, locker status (after open-close action): closed
+locker: 95, student: 5, locker status (before open-close action): open
+locker: 95, student: 5, locker status (after open-close action): closed
+locker: 100, student: 5, locker status (before open-close action): open
+locker: 100, student: 5, locker status (after open-close action): closed
+
+
+locker: 6, student: 6, locker status (before open-close action): open
+locker: 6, student: 6, locker status (after open-close action): closed
+locker: 12, student: 6, locker status (before open-close action): closed
+locker: 12, student: 6, locker status (after close-open action): open
+locker: 18, student: 6, locker status (before open-close action): open
+locker: 18, student: 6, locker status (after open-close action): closed
+locker: 24, student: 6, locker status (before open-close action): closed
+locker: 24, student: 6, locker status (after close-open action): open
+locker: 30, student: 6, locker status (before open-close action): closed
+locker: 30, student: 6, locker status (after close-open action): open
+locker: 36, student: 6, locker status (before open-close action): closed
+locker: 36, student: 6, locker status (after close-open action): open
+locker: 42, student: 6, locker status (before open-close action): open
+locker: 42, student: 6, locker status (after open-close action): closed
+locker: 48, student: 6, locker status (before open-close action): closed
+locker: 48, student: 6, locker status (after close-open action): open
+locker: 54, student: 6, locker status (before open-close action): open
+locker: 54, student: 6, locker status (after open-close action): closed
+locker: 60, student: 6, locker status (before open-close action): open
+locker: 60, student: 6, locker status (after open-close action): closed
+locker: 66, student: 6, locker status (before open-close action): open
+locker: 66, student: 6, locker status (after open-close action): closed
+locker: 72, student: 6, locker status (before open-close action): closed
+locker: 72, student: 6, locker status (after close-open action): open
+locker: 78, student: 6, locker status (before open-close action): open
+locker: 78, student: 6, locker status (after open-close action): closed
+locker: 84, student: 6, locker status (before open-close action): closed
+locker: 84, student: 6, locker status (after close-open action): open
+locker: 90, student: 6, locker status (before open-close action): closed
+locker: 90, student: 6, locker status (after close-open action): open
+locker: 96, student: 6, locker status (before open-close action): closed
+locker: 96, student: 6, locker status (after close-open action): open
+
+
+locker: 7, student: 7, locker status (before open-close action): open
+locker: 7, student: 7, locker status (after open-close action): closed
+locker: 14, student: 7, locker status (before open-close action): closed
+locker: 14, student: 7, locker status (after close-open action): open
+locker: 21, student: 7, locker status (before open-close action): closed
+locker: 21, student: 7, locker status (after close-open action): open
+locker: 28, student: 7, locker status (before open-close action): open
+locker: 28, student: 7, locker status (after open-close action): closed
+locker: 35, student: 7, locker status (before open-close action): closed
+locker: 35, student: 7, locker status (after close-open action): open
+locker: 42, student: 7, locker status (before open-close action): closed
+locker: 42, student: 7, locker status (after close-open action): open
+locker: 49, student: 7, locker status (before open-close action): open
+locker: 49, student: 7, locker status (after open-close action): closed
+locker: 56, student: 7, locker status (before open-close action): open
+locker: 56, student: 7, locker status (after open-close action): closed
+locker: 63, student: 7, locker status (before open-close action): closed
+locker: 63, student: 7, locker status (after close-open action): open
+locker: 70, student: 7, locker status (before open-close action): open
+locker: 70, student: 7, locker status (after open-close action): closed
+locker: 77, student: 7, locker status (before open-close action): open
+locker: 77, student: 7, locker status (after open-close action): closed
+locker: 84, student: 7, locker status (before open-close action): open
+locker: 84, student: 7, locker status (after open-close action): closed
+locker: 91, student: 7, locker status (before open-close action): open
+locker: 91, student: 7, locker status (after open-close action): closed
+locker: 98, student: 7, locker status (before open-close action): closed
+locker: 98, student: 7, locker status (after close-open action): open
+
+
+locker: 8, student: 8, locker status (before open-close action): open
+locker: 8, student: 8, locker status (after open-close action): closed
+locker: 16, student: 8, locker status (before open-close action): open
+locker: 16, student: 8, locker status (after open-close action): closed
+locker: 24, student: 8, locker status (before open-close action): open
+locker: 24, student: 8, locker status (after open-close action): closed
+locker: 32, student: 8, locker status (before open-close action): open
+locker: 32, student: 8, locker status (after open-close action): closed
+locker: 40, student: 8, locker status (before open-close action): closed
+locker: 40, student: 8, locker status (after close-open action): open
+locker: 48, student: 8, locker status (before open-close action): open
+locker: 48, student: 8, locker status (after open-close action): closed
+locker: 56, student: 8, locker status (before open-close action): closed
+locker: 56, student: 8, locker status (after close-open action): open
+locker: 64, student: 8, locker status (before open-close action): open
+locker: 64, student: 8, locker status (after open-close action): closed
+locker: 72, student: 8, locker status (before open-close action): open
+locker: 72, student: 8, locker status (after open-close action): closed
+locker: 80, student: 8, locker status (before open-close action): closed
+locker: 80, student: 8, locker status (after close-open action): open
+locker: 88, student: 8, locker status (before open-close action): open
+locker: 88, student: 8, locker status (after open-close action): closed
+locker: 96, student: 8, locker status (before open-close action): open
+locker: 96, student: 8, locker status (after open-close action): closed
+
+
+locker: 9, student: 9, locker status (before open-close action): closed
+locker: 9, student: 9, locker status (after close-open action): open
+locker: 18, student: 9, locker status (before open-close action): closed
+locker: 18, student: 9, locker status (after close-open action): open
+locker: 27, student: 9, locker status (before open-close action): closed
+locker: 27, student: 9, locker status (after close-open action): open
+locker: 36, student: 9, locker status (before open-close action): open
+locker: 36, student: 9, locker status (after open-close action): closed
+locker: 45, student: 9, locker status (before open-close action): open
+locker: 45, student: 9, locker status (after open-close action): closed
+locker: 54, student: 9, locker status (before open-close action): closed
+locker: 54, student: 9, locker status (after close-open action): open
+locker: 63, student: 9, locker status (before open-close action): open
+locker: 63, student: 9, locker status (after open-close action): closed
+locker: 72, student: 9, locker status (before open-close action): closed
+locker: 72, student: 9, locker status (after close-open action): open
+locker: 81, student: 9, locker status (before open-close action): closed
+locker: 81, student: 9, locker status (after close-open action): open
+locker: 90, student: 9, locker status (before open-close action): open
+locker: 90, student: 9, locker status (after open-close action): closed
+locker: 99, student: 9, locker status (before open-close action): closed
+locker: 99, student: 9, locker status (after close-open action): open
+
+
+locker: 10, student: 10, locker status (before open-close action): open
+locker: 10, student: 10, locker status (after open-close action): closed
+locker: 20, student: 10, locker status (before open-close action): closed
+locker: 20, student: 10, locker status (after close-open action): open
+locker: 30, student: 10, locker status (before open-close action): open
+locker: 30, student: 10, locker status (after open-close action): closed
+locker: 40, student: 10, locker status (before open-close action): open
+locker: 40, student: 10, locker status (after open-close action): closed
+locker: 50, student: 10, locker status (before open-close action): open
+locker: 50, student: 10, locker status (after open-close action): closed
+locker: 60, student: 10, locker status (before open-close action): closed
+locker: 60, student: 10, locker status (after close-open action): open
+locker: 70, student: 10, locker status (before open-close action): closed
+locker: 70, student: 10, locker status (after close-open action): open
+locker: 80, student: 10, locker status (before open-close action): open
+locker: 80, student: 10, locker status (after open-close action): closed
+locker: 90, student: 10, locker status (before open-close action): closed
+locker: 90, student: 10, locker status (after close-open action): open
+locker: 100, student: 10, locker status (before open-close action): closed
+locker: 100, student: 10, locker status (after close-open action): open
+
+
+locker: 11, student: 11, locker status (before open-close action): open
+locker: 11, student: 11, locker status (after open-close action): closed
+locker: 22, student: 11, locker status (before open-close action): closed
+locker: 22, student: 11, locker status (after close-open action): open
+locker: 33, student: 11, locker status (before open-close action): closed
+locker: 33, student: 11, locker status (after close-open action): open
+locker: 44, student: 11, locker status (before open-close action): open
+locker: 44, student: 11, locker status (after open-close action): closed
+locker: 55, student: 11, locker status (before open-close action): closed
+locker: 55, student: 11, locker status (after close-open action): open
+locker: 66, student: 11, locker status (before open-close action): closed
+locker: 66, student: 11, locker status (after close-open action): open
+locker: 77, student: 11, locker status (before open-close action): closed
+locker: 77, student: 11, locker status (after close-open action): open
+locker: 88, student: 11, locker status (before open-close action): closed
+locker: 88, student: 11, locker status (after close-open action): open
+locker: 99, student: 11, locker status (before open-close action): open
+locker: 99, student: 11, locker status (after open-close action): closed
+
+
+locker: 12, student: 12, locker status (before open-close action): open
+locker: 12, student: 12, locker status (after open-close action): closed
+locker: 24, student: 12, locker status (before open-close action): closed
+locker: 24, student: 12, locker status (after close-open action): open
+locker: 36, student: 12, locker status (before open-close action): closed
+locker: 36, student: 12, locker status (after close-open action): open
+locker: 48, student: 12, locker status (before open-close action): closed
+locker: 48, student: 12, locker status (after close-open action): open
+locker: 60, student: 12, locker status (before open-close action): open
+locker: 60, student: 12, locker status (after open-close action): closed
+locker: 72, student: 12, locker status (before open-close action): open
+locker: 72, student: 12, locker status (after open-close action): closed
+locker: 84, student: 12, locker status (before open-close action): closed
+locker: 84, student: 12, locker status (after close-open action): open
+locker: 96, student: 12, locker status (before open-close action): closed
+locker: 96, student: 12, locker status (after close-open action): open
+
+
+locker: 13, student: 13, locker status (before open-close action): open
+locker: 13, student: 13, locker status (after open-close action): closed
+locker: 26, student: 13, locker status (before open-close action): closed
+locker: 26, student: 13, locker status (after close-open action): open
+locker: 39, student: 13, locker status (before open-close action): closed
+locker: 39, student: 13, locker status (after close-open action): open
+locker: 52, student: 13, locker status (before open-close action): open
+locker: 52, student: 13, locker status (after open-close action): closed
+locker: 65, student: 13, locker status (before open-close action): closed
+locker: 65, student: 13, locker status (after close-open action): open
+locker: 78, student: 13, locker status (before open-close action): closed
+locker: 78, student: 13, locker status (after close-open action): open
+locker: 91, student: 13, locker status (before open-close action): closed
+locker: 91, student: 13, locker status (after close-open action): open
+
+
+locker: 14, student: 14, locker status (before open-close action): open
+locker: 14, student: 14, locker status (after open-close action): closed
+locker: 28, student: 14, locker status (before open-close action): closed
+locker: 28, student: 14, locker status (after close-open action): open
+locker: 42, student: 14, locker status (before open-close action): open
+locker: 42, student: 14, locker status (after open-close action): closed
+locker: 56, student: 14, locker status (before open-close action): open
+locker: 56, student: 14, locker status (after open-close action): closed
+locker: 70, student: 14, locker status (before open-close action): open
+locker: 70, student: 14, locker status (after open-close action): closed
+locker: 84, student: 14, locker status (before open-close action): open
+locker: 84, student: 14, locker status (after open-close action): closed
+locker: 98, student: 14, locker status (before open-close action): open
+locker: 98, student: 14, locker status (after open-close action): closed
+
+
+locker: 15, student: 15, locker status (before open-close action): open
+locker: 15, student: 15, locker status (after open-close action): closed
+locker: 30, student: 15, locker status (before open-close action): closed
+locker: 30, student: 15, locker status (after close-open action): open
+locker: 45, student: 15, locker status (before open-close action): closed
+locker: 45, student: 15, locker status (after close-open action): open
+locker: 60, student: 15, locker status (before open-close action): closed
+locker: 60, student: 15, locker status (after close-open action): open
+locker: 75, student: 15, locker status (before open-close action): open
+locker: 75, student: 15, locker status (after open-close action): closed
+locker: 90, student: 15, locker status (before open-close action): open
+locker: 90, student: 15, locker status (after open-close action): closed
+
+
+locker: 16, student: 16, locker status (before open-close action): closed
+locker: 16, student: 16, locker status (after close-open action): open
+locker: 32, student: 16, locker status (before open-close action): closed
+locker: 32, student: 16, locker status (after close-open action): open
+locker: 48, student: 16, locker status (before open-close action): open
+locker: 48, student: 16, locker status (after open-close action): closed
+locker: 64, student: 16, locker status (before open-close action): closed
+locker: 64, student: 16, locker status (after close-open action): open
+locker: 80, student: 16, locker status (before open-close action): closed
+locker: 80, student: 16, locker status (after close-open action): open
+locker: 96, student: 16, locker status (before open-close action): open
+locker: 96, student: 16, locker status (after open-close action): closed
+
+
+locker: 17, student: 17, locker status (before open-close action): open
+locker: 17, student: 17, locker status (after open-close action): closed
+locker: 34, student: 17, locker status (before open-close action): closed
+locker: 34, student: 17, locker status (after close-open action): open
+locker: 51, student: 17, locker status (before open-close action): closed
+locker: 51, student: 17, locker status (after close-open action): open
+locker: 68, student: 17, locker status (before open-close action): open
+locker: 68, student: 17, locker status (after open-close action): closed
+locker: 85, student: 17, locker status (before open-close action): closed
+locker: 85, student: 17, locker status (after close-open action): open
+
+
+locker: 18, student: 18, locker status (before open-close action): open
+locker: 18, student: 18, locker status (after open-close action): closed
+locker: 36, student: 18, locker status (before open-close action): open
+locker: 36, student: 18, locker status (after open-close action): closed
+locker: 54, student: 18, locker status (before open-close action): open
+locker: 54, student: 18, locker status (after open-close action): closed
+locker: 72, student: 18, locker status (before open-close action): closed
+locker: 72, student: 18, locker status (after close-open action): open
+locker: 90, student: 18, locker status (before open-close action): closed
+locker: 90, student: 18, locker status (after close-open action): open
+
+
+locker: 19, student: 19, locker status (before open-close action): open
+locker: 19, student: 19, locker status (after open-close action): closed
+locker: 38, student: 19, locker status (before open-close action): closed
+locker: 38, student: 19, locker status (after close-open action): open
+locker: 57, student: 19, locker status (before open-close action): closed
+locker: 57, student: 19, locker status (after close-open action): open
+locker: 76, student: 19, locker status (before open-close action): open
+locker: 76, student: 19, locker status (after open-close action): closed
+locker: 95, student: 19, locker status (before open-close action): closed
+locker: 95, student: 19, locker status (after close-open action): open
+
+
+locker: 20, student: 20, locker status (before open-close action): open
+locker: 20, student: 20, locker status (after open-close action): closed
+locker: 40, student: 20, locker status (before open-close action): closed
+locker: 40, student: 20, locker status (after close-open action): open
+locker: 60, student: 20, locker status (before open-close action): open
+locker: 60, student: 20, locker status (after open-close action): closed
+locker: 80, student: 20, locker status (before open-close action): open
+locker: 80, student: 20, locker status (after open-close action): closed
+locker: 100, student: 20, locker status (before open-close action): open
+locker: 100, student: 20, locker status (after open-close action): closed
+
+
+locker: 21, student: 21, locker status (before open-close action): open
+locker: 21, student: 21, locker status (after open-close action): closed
+locker: 42, student: 21, locker status (before open-close action): closed
+locker: 42, student: 21, locker status (after close-open action): open
+locker: 63, student: 21, locker status (before open-close action): closed
+locker: 63, student: 21, locker status (after close-open action): open
+locker: 84, student: 21, locker status (before open-close action): closed
+locker: 84, student: 21, locker status (after close-open action): open
+
+
+locker: 22, student: 22, locker status (before open-close action): open
+locker: 22, student: 22, locker status (after open-close action): closed
+locker: 44, student: 22, locker status (before open-close action): closed
+locker: 44, student: 22, locker status (after close-open action): open
+locker: 66, student: 22, locker status (before open-close action): open
+locker: 66, student: 22, locker status (after open-close action): closed
+locker: 88, student: 22, locker status (before open-close action): open
+locker: 88, student: 22, locker status (after open-close action): closed
+
+
+locker: 23, student: 23, locker status (before open-close action): open
+locker: 23, student: 23, locker status (after open-close action): closed
+locker: 46, student: 23, locker status (before open-close action): closed
+locker: 46, student: 23, locker status (after close-open action): open
+locker: 69, student: 23, locker status (before open-close action): closed
+locker: 69, student: 23, locker status (after close-open action): open
+locker: 92, student: 23, locker status (before open-close action): open
+locker: 92, student: 23, locker status (after open-close action): closed
+
+
+locker: 24, student: 24, locker status (before open-close action): open
+locker: 24, student: 24, locker status (after open-close action): closed
+locker: 48, student: 24, locker status (before open-close action): closed
+locker: 48, student: 24, locker status (after close-open action): open
+locker: 72, student: 24, locker status (before open-close action): open
+locker: 72, student: 24, locker status (after open-close action): closed
+locker: 96, student: 24, locker status (before open-close action): closed
+locker: 96, student: 24, locker status (after close-open action): open
+
+
+locker: 25, student: 25, locker status (before open-close action): closed
+locker: 25, student: 25, locker status (after close-open action): open
+locker: 50, student: 25, locker status (before open-close action): closed
+locker: 50, student: 25, locker status (after close-open action): open
+locker: 75, student: 25, locker status (before open-close action): closed
+locker: 75, student: 25, locker status (after close-open action): open
+locker: 100, student: 25, locker status (before open-close action): closed
+locker: 100, student: 25, locker status (after close-open action): open
+
+
+locker: 26, student: 26, locker status (before open-close action): open
+locker: 26, student: 26, locker status (after open-close action): closed
+locker: 52, student: 26, locker status (before open-close action): closed
+locker: 52, student: 26, locker status (after close-open action): open
+locker: 78, student: 26, locker status (before open-close action): open
+locker: 78, student: 26, locker status (after open-close action): closed
+
+
+locker: 27, student: 27, locker status (before open-close action): open
+locker: 27, student: 27, locker status (after open-close action): closed
+locker: 54, student: 27, locker status (before open-close action): closed
+locker: 54, student: 27, locker status (after close-open action): open
+locker: 81, student: 27, locker status (before open-close action): open
+locker: 81, student: 27, locker status (after open-close action): closed
+
+
+locker: 28, student: 28, locker status (before open-close action): open
+locker: 28, student: 28, locker status (after open-close action): closed
+locker: 56, student: 28, locker status (before open-close action): closed
+locker: 56, student: 28, locker status (after close-open action): open
+locker: 84, student: 28, locker status (before open-close action): open
+locker: 84, student: 28, locker status (after open-close action): closed
+
+
+locker: 29, student: 29, locker status (before open-close action): open
+locker: 29, student: 29, locker status (after open-close action): closed
+locker: 58, student: 29, locker status (before open-close action): closed
+locker: 58, student: 29, locker status (after close-open action): open
+locker: 87, student: 29, locker status (before open-close action): closed
+locker: 87, student: 29, locker status (after close-open action): open
+
+
+locker: 30, student: 30, locker status (before open-close action): open
+locker: 30, student: 30, locker status (after open-close action): closed
+locker: 60, student: 30, locker status (before open-close action): closed
+locker: 60, student: 30, locker status (after close-open action): open
+locker: 90, student: 30, locker status (before open-close action): open
+locker: 90, student: 30, locker status (after open-close action): closed
+
+
+locker: 31, student: 31, locker status (before open-close action): open
+locker: 31, student: 31, locker status (after open-close action): closed
+locker: 62, student: 31, locker status (before open-close action): closed
+locker: 62, student: 31, locker status (after close-open action): open
+locker: 93, student: 31, locker status (before open-close action): closed
+locker: 93, student: 31, locker status (after close-open action): open
+
+
+locker: 32, student: 32, locker status (before open-close action): open
+locker: 32, student: 32, locker status (after open-close action): closed
+locker: 64, student: 32, locker status (before open-close action): open
+locker: 64, student: 32, locker status (after open-close action): closed
+locker: 96, student: 32, locker status (before open-close action): open
+locker: 96, student: 32, locker status (after open-close action): closed
+
+
+locker: 33, student: 33, locker status (before open-close action): open
+locker: 33, student: 33, locker status (after open-close action): closed
+locker: 66, student: 33, locker status (before open-close action): closed
+locker: 66, student: 33, locker status (after close-open action): open
+locker: 99, student: 33, locker status (before open-close action): closed
+locker: 99, student: 33, locker status (after close-open action): open
+
+
+locker: 34, student: 34, locker status (before open-close action): open
+locker: 34, student: 34, locker status (after open-close action): closed
+locker: 68, student: 34, locker status (before open-close action): closed
+locker: 68, student: 34, locker status (after close-open action): open
+
+
+locker: 35, student: 35, locker status (before open-close action): open
+locker: 35, student: 35, locker status (after open-close action): closed
+locker: 70, student: 35, locker status (before open-close action): closed
+locker: 70, student: 35, locker status (after close-open action): open
+
+
+locker: 36, student: 36, locker status (before open-close action): closed
+locker: 36, student: 36, locker status (after close-open action): open
+locker: 72, student: 36, locker status (before open-close action): closed
+locker: 72, student: 36, locker status (after close-open action): open
+
+
+locker: 37, student: 37, locker status (before open-close action): open
+locker: 37, student: 37, locker status (after open-close action): closed
+locker: 74, student: 37, locker status (before open-close action): closed
+locker: 74, student: 37, locker status (after close-open action): open
+
+
+locker: 38, student: 38, locker status (before open-close action): open
+locker: 38, student: 38, locker status (after open-close action): closed
+locker: 76, student: 38, locker status (before open-close action): closed
+locker: 76, student: 38, locker status (after close-open action): open
+
+
+locker: 39, student: 39, locker status (before open-close action): open
+locker: 39, student: 39, locker status (after open-close action): closed
+locker: 78, student: 39, locker status (before open-close action): closed
+locker: 78, student: 39, locker status (after close-open action): open
+
+
+locker: 40, student: 40, locker status (before open-close action): open
+locker: 40, student: 40, locker status (after open-close action): closed
+locker: 80, student: 40, locker status (before open-close action): closed
+locker: 80, student: 40, locker status (after close-open action): open
+
+
+locker: 41, student: 41, locker status (before open-close action): open
+locker: 41, student: 41, locker status (after open-close action): closed
+locker: 82, student: 41, locker status (before open-close action): closed
+locker: 82, student: 41, locker status (after close-open action): open
+
+
+locker: 42, student: 42, locker status (before open-close action): open
+locker: 42, student: 42, locker status (after open-close action): closed
+locker: 84, student: 42, locker status (before open-close action): closed
+locker: 84, student: 42, locker status (after close-open action): open
+
+
+locker: 43, student: 43, locker status (before open-close action): open
+locker: 43, student: 43, locker status (after open-close action): closed
+locker: 86, student: 43, locker status (before open-close action): closed
+locker: 86, student: 43, locker status (after close-open action): open
+
+
+locker: 44, student: 44, locker status (before open-close action): open
+locker: 44, student: 44, locker status (after open-close action): closed
+locker: 88, student: 44, locker status (before open-close action): closed
+locker: 88, student: 44, locker status (after close-open action): open
+
+
+locker: 45, student: 45, locker status (before open-close action): open
+locker: 45, student: 45, locker status (after open-close action): closed
+locker: 90, student: 45, locker status (before open-close action): closed
+locker: 90, student: 45, locker status (after close-open action): open
+
+
+locker: 46, student: 46, locker status (before open-close action): open
+locker: 46, student: 46, locker status (after open-close action): closed
+locker: 92, student: 46, locker status (before open-close action): closed
+locker: 92, student: 46, locker status (after close-open action): open
+
+
+locker: 47, student: 47, locker status (before open-close action): open
+locker: 47, student: 47, locker status (after open-close action): closed
+locker: 94, student: 47, locker status (before open-close action): closed
+locker: 94, student: 47, locker status (after close-open action): open
+
+
+locker: 48, student: 48, locker status (before open-close action): open
+locker: 48, student: 48, locker status (after open-close action): closed
+locker: 96, student: 48, locker status (before open-close action): closed
+locker: 96, student: 48, locker status (after close-open action): open
+
+
+locker: 49, student: 49, locker status (before open-close action): closed
+locker: 49, student: 49, locker status (after close-open action): open
+locker: 98, student: 49, locker status (before open-close action): closed
+locker: 98, student: 49, locker status (after close-open action): open
+
+
+locker: 50, student: 50, locker status (before open-close action): open
+locker: 50, student: 50, locker status (after open-close action): closed
+locker: 100, student: 50, locker status (before open-close action): open
+locker: 100, student: 50, locker status (after open-close action): closed
+
+
+locker: 51, student: 51, locker status (before open-close action): open
+locker: 51, student: 51, locker status (after open-close action): closed
+
+
+locker: 52, student: 52, locker status (before open-close action): open
+locker: 52, student: 52, locker status (after open-close action): closed
+
+
+locker: 53, student: 53, locker status (before open-close action): open
+locker: 53, student: 53, locker status (after open-close action): closed
+
+
+locker: 54, student: 54, locker status (before open-close action): open
+locker: 54, student: 54, locker status (after open-close action): closed
+
+
+locker: 55, student: 55, locker status (before open-close action): open
+locker: 55, student: 55, locker status (after open-close action): closed
+
+
+locker: 56, student: 56, locker status (before open-close action): open
+locker: 56, student: 56, locker status (after open-close action): closed
+
+
+locker: 57, student: 57, locker status (before open-close action): open
+locker: 57, student: 57, locker status (after open-close action): closed
+
+
+locker: 58, student: 58, locker status (before open-close action): open
+locker: 58, student: 58, locker status (after open-close action): closed
+
+
+locker: 59, student: 59, locker status (before open-close action): open
+locker: 59, student: 59, locker status (after open-close action): closed
+
+
+locker: 60, student: 60, locker status (before open-close action): open
+locker: 60, student: 60, locker status (after open-close action): closed
+
+
+locker: 61, student: 61, locker status (before open-close action): open
+locker: 61, student: 61, locker status (after open-close action): closed
+
+
+locker: 62, student: 62, locker status (before open-close action): open
+locker: 62, student: 62, locker status (after open-close action): closed
+
+
+locker: 63, student: 63, locker status (before open-close action): open
+locker: 63, student: 63, locker status (after open-close action): closed
+
+
+locker: 64, student: 64, locker status (before open-close action): closed
+locker: 64, student: 64, locker status (after close-open action): open
+
+
+locker: 65, student: 65, locker status (before open-close action): open
+locker: 65, student: 65, locker status (after open-close action): closed
+
+
+locker: 66, student: 66, locker status (before open-close action): open
+locker: 66, student: 66, locker status (after open-close action): closed
+
+
+locker: 67, student: 67, locker status (before open-close action): open
+locker: 67, student: 67, locker status (after open-close action): closed
+
+
+locker: 68, student: 68, locker status (before open-close action): open
+locker: 68, student: 68, locker status (after open-close action): closed
+
+
+locker: 69, student: 69, locker status (before open-close action): open
+locker: 69, student: 69, locker status (after open-close action): closed
+
+
+locker: 70, student: 70, locker status (before open-close action): open
+locker: 70, student: 70, locker status (after open-close action): closed
+
+
+locker: 71, student: 71, locker status (before open-close action): open
+locker: 71, student: 71, locker status (after open-close action): closed
+
+
+locker: 72, student: 72, locker status (before open-close action): open
+locker: 72, student: 72, locker status (after open-close action): closed
+
+
+locker: 73, student: 73, locker status (before open-close action): open
+locker: 73, student: 73, locker status (after open-close action): closed
+
+
+locker: 74, student: 74, locker status (before open-close action): open
+locker: 74, student: 74, locker status (after open-close action): closed
+
+
+locker: 75, student: 75, locker status (before open-close action): open
+locker: 75, student: 75, locker status (after open-close action): closed
+
+
+locker: 76, student: 76, locker status (before open-close action): open
+locker: 76, student: 76, locker status (after open-close action): closed
+
+
+locker: 77, student: 77, locker status (before open-close action): open
+locker: 77, student: 77, locker status (after open-close action): closed
+
+
+locker: 78, student: 78, locker status (before open-close action): open
+locker: 78, student: 78, locker status (after open-close action): closed
+
+
+locker: 79, student: 79, locker status (before open-close action): open
+locker: 79, student: 79, locker status (after open-close action): closed
+
+
+locker: 80, student: 80, locker status (before open-close action): open
+locker: 80, student: 80, locker status (after open-close action): closed
+
+
+locker: 81, student: 81, locker status (before open-close action): closed
+locker: 81, student: 81, locker status (after close-open action): open
+
+
+locker: 82, student: 82, locker status (before open-close action): open
+locker: 82, student: 82, locker status (after open-close action): closed
+
+
+locker: 83, student: 83, locker status (before open-close action): open
+locker: 83, student: 83, locker status (after open-close action): closed
+
+
+locker: 84, student: 84, locker status (before open-close action): open
+locker: 84, student: 84, locker status (after open-close action): closed
+
+
+locker: 85, student: 85, locker status (before open-close action): open
+locker: 85, student: 85, locker status (after open-close action): closed
+
+
+locker: 86, student: 86, locker status (before open-close action): open
+locker: 86, student: 86, locker status (after open-close action): closed
+
+
+locker: 87, student: 87, locker status (before open-close action): open
+locker: 87, student: 87, locker status (after open-close action): closed
+
+
+locker: 88, student: 88, locker status (before open-close action): open
+locker: 88, student: 88, locker status (after open-close action): closed
+
+
+locker: 89, student: 89, locker status (before open-close action): open
+locker: 89, student: 89, locker status (after open-close action): closed
+
+
+locker: 90, student: 90, locker status (before open-close action): open
+locker: 90, student: 90, locker status (after open-close action): closed
+
+
+locker: 91, student: 91, locker status (before open-close action): open
+locker: 91, student: 91, locker status (after open-close action): closed
+
+
+locker: 92, student: 92, locker status (before open-close action): open
+locker: 92, student: 92, locker status (after open-close action): closed
+
+
+locker: 93, student: 93, locker status (before open-close action): open
+locker: 93, student: 93, locker status (after open-close action): closed
+
+
+locker: 94, student: 94, locker status (before open-close action): open
+locker: 94, student: 94, locker status (after open-close action): closed
+
+
+locker: 95, student: 95, locker status (before open-close action): open
+locker: 95, student: 95, locker status (after open-close action): closed
+
+
+locker: 96, student: 96, locker status (before open-close action): open
+locker: 96, student: 96, locker status (after open-close action): closed
+
+
+locker: 97, student: 97, locker status (before open-close action): open
+locker: 97, student: 97, locker status (after open-close action): closed
+
+
+locker: 98, student: 98, locker status (before open-close action): open
+locker: 98, student: 98, locker status (after open-close action): closed
+
+
+locker: 99, student: 99, locker status (before open-close action): open
+locker: 99, student: 99, locker status (after open-close action): closed
+
+
+locker: 100, student: 100, locker status (before open-close action): closed
+locker: 100, student: 100, locker status (after close-open action): open
+
+{1: 'open', 2: 'closed', 3: 'closed', 4: 'open', 5: 'closed', 6: 'closed', 7: 'closed', 8: 'closed', 9: 'open', 10: 'closed', 11: 'closed', 12: 'closed', 13: 'closed', 14: 'closed', 15: 'closed', 16: 'open', 17: 'closed', 
+18: 'closed', 19: 'closed', 20: 'closed', 21: 'closed', 22: 'closed', 23: 'closed', 24: 'closed', 25: 'open', 26: 'closed', 27: 'closed', 28: 'closed', 29: 'closed', 30: 'closed', 31: 'closed', 32: 'closed', 33: 'closed', 
+34: 'closed', 35: 'closed', 36: 'open', 37: 'closed', 38: 'closed', 39: 'closed', 40: 'closed', 41: 'closed', 42: 'closed', 43: 'closed', 44: 'closed', 45: 'closed', 46: 'closed', 47: 'closed', 48: 'closed', 49: 'open', 
+50: 'closed', 51: 'closed', 52: 'closed', 53: 'closed', 54: 'closed', 55: 'closed', 56: 'closed', 57: 'closed', 58: 'closed', 59: 'closed', 60: 'closed', 61: 'closed', 62: 'closed', 63: 'closed', 64: 'open', 65: 'closed', 
+66: 'closed', 67: 'closed', 68: 'closed', 69: 'closed', 70: 'closed', 71: 'closed', 72: 'closed', 73: 'closed', 74: 'closed', 75: 'closed', 76: 'closed', 77: 'closed', 78: 'closed', 79: 'closed', 80: 'closed', 81: 'open', 
+82: 'closed', 83: 'closed', 84: 'closed', 85: 'closed', 86: 'closed', 87: 'closed', 88: 'closed', 89: 'closed', 90: 'closed', 91: 'closed', 92: 'closed', 93: 'closed', 94: 'closed', 95: 'closed', 96: 'closed', 97: 'closed', 
+98: 'closed', 99: 'closed', 100: 'open'}
+
+1: open
+2: closed
+3: closed
+4: open
+5: closed
+6: closed
+7: closed
+8: closed
+9: open
+10: closed
+11: closed
+12: closed
+13: closed
+14: closed
+15: closed
+16: open
+17: closed
+18: closed
+19: closed
+20: closed
+21: closed
+22: closed
+23: closed
+24: closed
+25: open
+26: closed
+27: closed
+28: closed
+29: closed
+30: closed
+31: closed
+32: closed
+33: closed
+34: closed
+35: closed
+36: open
+37: closed
+38: closed
+39: closed
+40: closed
+41: closed
+42: closed
+43: closed
+44: closed
+45: closed
+46: closed
+47: closed
+48: closed
+49: open
+50: closed
+51: closed
+52: closed
+53: closed
+54: closed
+55: closed
+56: closed
+57: closed
+58: closed
+59: closed
+60: closed
+61: closed
+62: closed
+63: closed
+64: open
+65: closed
+66: closed
+67: closed
+68: closed
+69: closed
+70: closed
+71: closed
+72: closed
+73: closed
+74: closed
+75: closed
+76: closed
+77: closed
+78: closed
+79: closed
+80: closed
+81: open
+82: closed
+83: closed
+84: closed
+85: closed
+86: closed
+87: closed
+88: closed
+89: closed
+90: closed
+91: closed
+92: closed
+93: closed
+94: closed
+95: closed
+96: closed
+97: closed
+98: closed
+99: closed
+100: open
